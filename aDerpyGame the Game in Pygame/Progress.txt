@@ -1,0 +1,227 @@
+------------------------------- Progress+Dates ---------------------------------------
+
+
+Oct 1, 2024 - 
+
+--Accomplished--
+
+-moving derp
+-adding the derps to file
+-getting derp to change size and position based on window resolution
+-failed Collision testing= it says collision when its not supposed to and nothing when its supposed to so it doesn't work as intended
+
+--Next--
+
+-try out interactions between derpy and insane derp
+-draw town, buildings
+-draw out other characts:mayor, grandma lee's dumplings
+-draw out the money
+
+
+
+Oct 2, 2024-
+
+--Accomplished--
+
+-Fixed the collision in a SIMPLE way and it works
+-I forgot to save
+-Drew the Rat
+-Resized the the Derps
+-Created new variables for derp's left and right
+
+--Next--
+
+-Draw money
+-make derp's left and right variable better
+-draw the rat
+-draw grandma lee
+
+
+
+Oct 3, 2024-
+
+--Accomplished--
+
+-Nothing
+-
+-
+
+--Next--
+
+-same as whatever oct 2, 2024 says
+-
+-
+
+
+
+Oct 4, 2024-
+
+--Accomplished--
+
+-Nothing
+-
+-
+
+--Next--
+
+-same as whatever oct 3, 2024 says
+-
+
+
+
+Oct 5, 2024-
+
+--Accomplished--
+
+-Nothing, Rest day
+-
+
+--Next--
+
+-same as whatever oct 4, 2024 says
+
+
+
+Oct 6, 2024-
+
+--Accomplished--
+
+-Nothing, Another Rest
+
+--Next--
+
+-same as whatever oct 5, 2024 says
+
+
+
+Oct 7, 2024
+
+--Accomplished--
+
+-Create variable for the center of Derpy
+-Create varaible for left and right side of derpy
+-Reset all the variables and figure out the damn problem
+
+--Next--
+
+-same as whatever oct 6, 2024 says
+
+
+
+Oct 8, 2024
+
+--Accomplished--
+
+-Established new variables for top, bottom, left, and right for Derpy
+-Hit box to visualise new variables created and got it to follow derpy
+-successful collision test
+
+--Next--
+
+-same as whatever oct 7, 2024 says
+-
+
+
+
+Oct 9, 2024
+
+--Accomplished--
+
+-Edited collision to be like door
+-hitbox edited to try and to be proportional regardless of window size
+-derp dollar drawn out
+-new idea thought of
+-finish drawing insane derpy's body
+
+--Next--
+
+-have derpy interact with insane derpy
+-test out collisionw with building image and replace it with variables
+-add money
+
+
+
+Oct 10, 2024
+
+--Accomplished--
+
+-Absolutely Nothing
+
+--Next--
+
+-same as whatever oct 9, 2024 says
+
+
+
+Oct 11, 2024
+
+--Accomplished--
+
+-Finished coloring and designing the money
+
+--Next--
+
+-same as whatever oct 10, 2024 says
+
+
+
+Oct 12, 2024
+
+--Accomplished--
+
+-made the impulsive decision to recode EVERYTHING in python's pygame
+-did movement
+-learned stuff
+-created no files for aderpygame in pygame
+-learned a few basics (movement, keypress, jumping, boundries so derpys dont get lost)
+
+--Next--
+
+-import the money
+-work on sprites and movement
+-backgrounds
+-combat and health
+
+
+
+Oct 13, 2024
+
+--Accomplished--
+
+-watched tech with time video playlist on pygame (very good)
+-imported all images and head shots of the derps
+-loaded derpy into game
+-imported all variables from p5
+-imported this text document
+-learned even more things
+-add derpy onto display
+-resized derpy image
+-learned frame rate and changed it
+-debugged a bunch of stuff
+-put text on screen for the coords but they don't work
+-nvm fixed the text on screen and works now bc i changed where i put the font and the renders for the text coords and i put them into the redraw function
+
+--Next--
+
+-learn more
+-keep watching playlist
+-fix sleep schedule
+-figure out how im gonna be able to work on this in school on a chrome book
+-work on background
+-fix the coords on screen to change with derpy
+
+
+
+Oct 14, 2024
+
+--Accomplished--
+
+-added hitboxes
+-added and drew background picture 1
+-
+
+--Next--
+
+-figure out how to work on this in school too
+-
+-
